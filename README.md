@@ -48,3 +48,7 @@ R — run algorithm · G — generate random map · C — clear map.
 ```
 xvfb-run -a -s "-screen 0 1280x1024x24 -extension GLX" python3 -m pytest tests -q
 ```
+
+## License
+
+MIT — see `LICENSE`.
